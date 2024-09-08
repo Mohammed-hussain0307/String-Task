@@ -16,6 +16,8 @@ public class ReverseStr {
 			
 		}
 		System.out.println("\n ");
+
+		//Find the value Palindrome or Not
 		
 		String s="Malayalam";
 		char rev = 0;
