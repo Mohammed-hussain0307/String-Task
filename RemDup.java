@@ -29,8 +29,11 @@ public class RemDup {
 //		}
 //		
 //		System.out.println(dup);
+
+		//Another type of remove duplicate values
 		
 		int count=0;
+		dup="";
 		
 		for(int i=0;i<s.length(); i++) {
 				
