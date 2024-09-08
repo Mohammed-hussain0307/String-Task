@@ -1,6 +1,8 @@
 package string;
 
 public class RemDupCount {
+
+	//Remove duplicate without for-loop
 	
 	String dup="";
 	int i=0;
