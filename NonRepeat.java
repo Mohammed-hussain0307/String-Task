@@ -29,6 +29,8 @@ public class NonRepeat {
 			}
 
 		}
+
+		//Another type to find non-repeated first value
 		
 		for(int i=0;i<s.length();i++) {
 			
